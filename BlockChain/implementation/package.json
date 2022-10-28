@@ -1,0 +1,20 @@
+{
+  "name": "implementation",
+  "version": "1.0.0",
+  "description": "Build Blockchain from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "Echo should be test",
+    "dev-test": "nodemon dev-test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
